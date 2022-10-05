@@ -1,0 +1,18 @@
+[2022-10-6 00:04:34] layer "email@placeholder.com": Unsupported extension: com
+[2022-10-6 00:04:34] layer "info@cryohealth.be": Unsupported extension: be
+[2022-10-6 00:04:34] layer "+32 470 022 750": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2022-10-6 00:04:34] layer "hello@cryohealth.be": Unsupported extension: be
+[2022-10-6 00:04:34] layer "+32 470 022 750": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2022-10-6 00:04:34] layer "INFOOOOOOOOO@cryohealth.be": Unsupported extension: be
+[2022-10-6 00:04:34] layer "+32 470 022 750": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2022-10-6 00:04:34] layer "hello@cryohealth.be": Unsupported extension: be
+[2022-10-6 00:04:34] layer "+32 470 022 750": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2022-10-6 00:04:34] layer "hello@cryohealth.be": Unsupported extension: be
+[2022-10-6 00:04:34] layer "+32 470 022 750": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2022-10-6 00:04:34] layer "www.strride.com": Unsupported extension: com
+[2022-10-6 00:04:34] layer "www.strride.com copy": Expected end of input but "c" found.
+[2022-10-6 00:04:34] layer "www.inbody.be": Unsupported extension: be
+[2022-10-6 00:04:34] layer "www.strride.com copy 3": Expected end of input but "c" found.
+[2022-10-6 00:04:34] layer "www.strride.com copy 4": Expected end of input but "c" found.
+[2022-10-6 00:04:34] layer "3.Training": Unsupported extension: training
+[2022-10-6 00:04:34] layer "www.cryocompany.nl": Unsupported extension: nl
