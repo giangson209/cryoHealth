@@ -10,7 +10,18 @@ $(document).ready(function(){
 	// 		infinite: false,
 	// 	});
 	// }
-	$('.slide-part').slick({
+
+	$('.cate-prd a').click(function(){
+		var tab_id = $(this).attr('data-tab');
+
+		$('.cate-prd a').removeClass('active');
+		$('.box-tab-content').removeClass('active');
+
+		$(this).addClass('active');
+		$("#"+tab_id).addClass('active');
+	}) 
+
+	$('.slide-part').slick({ 
 		autoplay:false,
 		arrow:false,
 		slidesToShow: 5,
@@ -18,9 +29,16 @@ $(document).ready(function(){
 		dots: true,
 	}); 
 	$('.slide-member').slick({
-		autoplay:false,
+		autoplay:false, 
 		arrow:false,
 		slidesToShow: 5,
+		slidesToScroll: 2,
+		dots: true,
+	}); 
+	$('.slide-enkele').slick({
+		autoplay:false,
+		arrow:false,
+		slidesToShow: 6,
 		slidesToScroll: 2,
 		dots: true,
 	}); 

@@ -1,6 +1,19 @@
 <?php include 'header.php';?>
 <main>
-	<section class="box-banner"></section>
+	<section class="box-banner">
+		<!-- <div class="bn-abs"><img src="images/bn-banner.png" class="img-fluid w-100" alt=""></div> -->
+		<div class="content-banner-home">
+			<div class="container">
+				<div class="info-banner">
+					<div class="txt-banner">
+						<h1>cryo vibrations infrared EMS water Oxygen floating other</h1>
+						<div class="btn-main"><a href="" class="text-uppercase">discover our products</a></div>
+					</div>
+					<div class="avr-banner"><img src="images/avr-bn.png" class="img-fluid" alt=""></div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section class="box-recover">
 		<div class="container">
 			<div class="title text-center">

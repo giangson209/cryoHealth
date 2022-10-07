@@ -24,16 +24,16 @@
             <div class="h-content-menu">
                <div class="row align-items-center">
                   <div class="col-md-3">
-                     <div class="logo"><a href=""><img src="images/logo.png" class="img-fluid" alt=""></a></div>
+                     <div class="logo"><a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a></div>
                   </div>
                   <div class="col-md-9">
                      <div class="menu-right">
                         <div class="h-menu">
                            <ul>
-                              <li><a href="">How we work</a></li>
-                              <li><a href="">for who</a></li>
-                              <li><a href="">products</a></li>
-                              <li><a href="">contact</a></li>
+                              <li><a href="howwework.php">How we work</a></li>
+                              <li><a href="forwho.php">for who</a></li>
+                              <li><a href="products.php">products</a></li>
+                              <li><a href="contact.php">contact</a></li>
                            </ul>
                         </div>
                         <div class="translate text-uppercase">

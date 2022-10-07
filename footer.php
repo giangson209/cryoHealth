@@ -8,9 +8,9 @@
 				<div class="col-md-6">
 					<div class="social">
 						<ul>
-							<li><a href=""><img src="images/sc-1.png" class="img-fluid" alt=""></a></li>
-							<li><a href=""><img src="images/sc-2.png" class="img-fluid" alt=""></a></li>
-							<li><a href=""><img src="images/sc-3.png" class="img-fluid" alt=""></a></li>
+							<li><a href="" target="_blank"><img src="images/sc-1.png" class="img-fluid" alt=""></a></li>
+							<li><a href="" target="_blank"><img src="images/sc-2.png" class="img-fluid" alt=""></a></li>
+							<li><a href="" target="_blank"><img src="images/sc-3.png" class="img-fluid" alt=""></a></li>
 						</ul>
 					</div>
 				</div>

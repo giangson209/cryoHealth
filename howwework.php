@@ -97,5 +97,21 @@
 			</div>
 		</div>
 	</section>
+	<section class="box-b2b">
+		<div class="container">
+			<div class="content-b2b">
+				<div class="left">
+					<img src="images/b2b.png" class="img-fluid" alt="">
+				</div>
+				<div class="txt-b2b">
+					<h4>Gebruik onze recovery toestellen in jouw business en genereer extra inkomen</h4>
+					<p>ROI voor Personal trainers / Kiné’s / Beautycenters / Health coaches</p>
+				</div>
+				<div class="right">
+					<div class="btn-main"><a href="">BOEK EEN GESPREK</a></div>
+				</div>
+			</div>
+		</div>
+	</section>
 </main>
 <?php include 'footer.php';?> 
