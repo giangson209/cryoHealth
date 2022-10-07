@@ -1,7 +1,6 @@
 <?php include 'header.php';?>
 <main>
 	<section class="box-banner">
-		<!-- <div class="bn-abs"><img src="images/bn-banner.png" class="img-fluid w-100" alt=""></div> -->
 		<div class="content-banner-home">
 			<div class="container">
 				<div class="info-banner">

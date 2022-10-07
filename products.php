@@ -13,7 +13,7 @@
 						<li><a href="javascript:void(0)" data-tab="tab-1">Water</a></li>
 						<li><a href="javascript:void(0)" data-tab="tab-2">Oxygen</a></li>
 						<li><a href="javascript:void(0)" data-tab="tab-1">Floating</a></li>
-						<li><a href="javascript:void(0)" data-tab="tab-2">Ommther</a></li>
+						<li><a href="javascript:void(0)" data-tab="tab-2">Other</a></li>
 					</ul>
 				</div>
 			</div>

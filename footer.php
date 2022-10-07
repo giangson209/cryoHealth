@@ -20,7 +20,7 @@
 	<div class="fter-bot">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="info-fter">
 						<ul>
 							<li>
@@ -34,7 +34,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-4">
 					<div class="copyright">
 						<p>Algemene voorwaarden</p>
 						<h4>Website by Skillmedia</h4> 
@@ -49,6 +49,7 @@
 <script type="text/javascript" src="js/TweenMax.min.js"></script>
 <script type="text/javascript" src="js/lib/slick.min.js"></script> 
 <script type="text/javascript" src="js/wow.min.js"></script> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script> 
 <script type="text/javascript" src="js/private.js"></script> 
 </body>
 </html> 

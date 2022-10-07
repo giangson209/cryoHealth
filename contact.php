@@ -44,7 +44,7 @@
 				<h2>Boek<span> een gesprek</span></h2>
 			</div>
 			<div class="booking-tool text-center">
-				<a href="javascript:void(0)"><img src="images/book.png" class="img-fluid" alt=""></a>
+				<a href="javascript:void(0)" data-toggle="modal" data-target="#myModal" class="clc-booking-popup"><img src="images/book.png" class="img-fluid" alt=""></a>
 			</div>
 		</div>
 	</section>
